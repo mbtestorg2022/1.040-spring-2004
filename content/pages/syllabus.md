@@ -105,11 +105,48 @@ The grade of the course will be assigned on an individual and team basis. For th
 
 Your final grade will be calculated as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 35% (seven problem sets at 5% each) |
-| Term Project | 50% |
-| Class Participation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+35% (seven problem sets at 5% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For full credit, problem sets and term project phases must be posted before class on the due-date as indicated on the Course Outline. 10% per day will be deducted from late problem sets or term project phases up to a maximum of seven days. Problem sets and term project phases received after seven days will not receive any credit. Under certain extenuating circumstances extensions may be granted. Please contact an instructor or teaching assistant prior to the due-date if an extension is required.
 
