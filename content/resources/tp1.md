@@ -3,6 +3,11 @@ content_type: resource
 description: Phase 1 of the Term Project assignment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-040-project-management-spring-2004/13466cade01a3ac443205f07c91e5a22_tp1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 parent_uid: f8da71dd-3e4a-55a2-5885-62eda4b947df
 resourcetype: Document
 title: tp1.pdf

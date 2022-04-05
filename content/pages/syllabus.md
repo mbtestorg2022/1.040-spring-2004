@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b99d53bb-3186-dc30-b4d9-8ee571d625f0
 ---
@@ -28,7 +30,7 @@ As technological integration and construction complexity increase, so do constru
 
 To achieve this, we will use a basic project management framework in which the project life-cycle is broken into organizing, planning, monitoring, controlling and learning from old and current construction projects (See Figure 1). Within the framework, you will learn the methodologies and tools necessary for each aspect of the process as well as the theories upon which these are built. By the end of the term you will be able to adapt and apply the framework to effectively manage a construction project in an Architecture/Engineering/Construction (A/E/C) organization.
 
-{{< resource "828d6e69-8f47-92f9-0639-09b7719b471e" >}}
+![The organization framework, concepts & tools for the course.](/courses/civil-and-environmental-engineering/1-040-project-management-spring-2004/syllabus/1040_syllabus.jpg)
 
 The material in the course is divided into five major sections (see Figure 1): Project Organization, Project Planning, Project Monitoring, Project Control, and Project Learning. In what follows, we describe in some detail the material covered in each major section of the course.
 
